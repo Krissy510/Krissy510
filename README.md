@@ -17,9 +17,10 @@ I'm a third-year Software Engineering student at the University of Glasgow.
 * Tailwind CSS
 
 ### About me
-I started learning about software development in 2020 and immensely enjoyed it. I've learned many programming languages, such as Python, C/C++, Java, and TypeScript and some frameworks, such as React, Angular, NestJS, and Qt.
+I started learning about software development in 2020 and immensely enjoyed it. 
 
-While studying at KMITL, I produced at least three large projects for academic and personal purposes. Each project improved my coding technique and time management as a developer.
+While studying at KMITL, I produced at least three large projects for academic and personal purposes.
+Each project improved my coding technique and time management as a developer.
 
 In the past, I worked as a C programming course Teacher assistant in 2021 and interned as a Full stack developer at PRIMO in the summer of 2022.
 
