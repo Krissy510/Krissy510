@@ -1,4 +1,4 @@
-<p align="center"><a href="[https://anuraghazra.github.io](https://www.raivphasport.dev/)"><img width="80%" alt="Raviphas Sananpanichkul" src="./assets/header.png" /></a></p>
+<p align="center"><a href="[https://anuraghazra.github.io](https://www.raivphasport.dev/)"><img width="80%" alt="Raviphas Sananpanichkul" src="./assets/new-header.png" /></a></p>
 
 I'm a software developer from Thailand but based in the UK.<br>
 I'm a third-year Software Engineering student at the University of Glasgow.
